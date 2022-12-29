@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Schema_file version="1.2">
+  <schema>
+    <schematic>
+	  <!-- DARK -->
+      <item name="BACKGROUND" color="0x2e3440"/>
+      <item name="GRID" color="0x4c566a"/>
+	  <!-- GRAY GRADIENT -->
+      <item name="BORDER/GRID ZONES" color="0xd8dee9"/>
+      <item name="SHEET ZONING GRID" color="0xe5e9f0"/>
+      <item name="EXCLUDED COMPONENT" color="0xeceff4"/>
+	  
+	  <!-- YELLOW -->
+      <item name="ANNOTATION" color="0xebcb8b"/>
+      <item name="BUS" color="0xebcb8b"/>
+      <item name="PROPERTY" color="0xebcb8b"/>
+      <item name="TEXT" text="0xebcb8b"/>
+	  <!-- DARK YELOW -->
+      <item name="LABEL" text="0xebcb8b"/>
+	  
+	  <!-- BLUE -->
+      <item name="ARC" color="0x81a1c1"/>
+      <item name="BORDER" color="0x81a1c1"/>
+      <item name="BOX" color="0x81a1c1" fill_color=""/>
+      <item name="CIRCLE" color="0x81a1c1" fill_color=""/>
+      <item name="COMPONENT" color="0x81a1c1"/>
+      <item name="LINE" color="0x81a1c1" fill_color=""/>
+      <item name="PIN" color="0x81a1c1"/>
+
+	  <!-- DARK BLUE -->
+      <item name="OUT OF DATE SYMBOLS" color="0x5e81ac"/>
+
+	  <!-- BLUISH GRAY -->
+      <item name="CROSS REFERENCE" color="0x88c0d0"/>
+	  <!-- GREEN -->
+      <item name="NET" color="0xa3be8c"/>
+	  <!-- RED -->
+      <item name="SELECTED PIN" color="0xb1616a"/>
+	  <!-- BROWN -->
+	  <item name="UNPLACED COMPONENT" color="0xd08770"/>
+    </schematic>
+    <ict>
+      <item name="BLOCK" color="0x0060c0" text="0x000000"/>
+      <item name="BUS" color="0xfffbf0" text="0x000000"/>
+      <item name="DIFF PAIR" color="0xfffbf0" text="0x000000"/>
+      <item name="EDITABLE BLOCK" color="0x008080" text="0x000000"/>
+      <item name="EDITABLE CELL" color="0xfffbf0" text="0x000000"/>
+      <item name="FPGA" color="0xfffbf0" text="0x000000"/>
+      <item name="GLOBAL NET" color="0xe02020" text="0x000000"/>
+      <item name="GROUP" color="0xa6caf0" text="0x000000"/>
+      <item name="HIGHLIGHT" color="0xff00ff" text="0x000000"/>
+      <item name="INVALID CELL" color="0xb0b0b0" text="0x000000"/>
+      <item name="NET" color="0xfffbf0" text="0x000000"/>
+      <item name="PIN" color="0x80b0e0" text="0x000000"/>
+      <item name="PORT" color="0xfffbf0" text="0x000000"/>
+      <item name="SYMBOL" color="0xfffbf0" text="0x000000"/>
+      <item name="VIEW" color="0xfffbf0" text="0x000000"/>
+    </ict>
+  </schema>
+</Schema_file>

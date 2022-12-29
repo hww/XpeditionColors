@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Schema_file version="1.2">
+  <schema>
+    <schematic>
+      <item name="ANNOTATION" color="0xe5e9f0"/>
+      <item name="ARC" color="0xa3be8c"/>
+      <item name="BACKGROUND" color="0x2e3440"/>
+      <item name="BORDER" color="0xffffff"/>
+      <item name="BORDER/GRID ZONES" color="0xeceff4"/>
+      <item name="BOX" color="0xa3be8c"/>
+      <item name="BUS" color="0xd08770"/>
+      <item name="CIRCLE" color="0xa3be8c"/>
+      <item name="COMPONENT" color="0xffffff"/>
+      <item name="CROSS REFERENCE" color="0xa6caf0"/>
+      <item name="GRID" color="0x4c566a"/>
+      <item name="HIGHLIGHT" color="0xff00ff"/>
+      <item name="LABEL" text="0xffffff"/>
+      <item name="LINE" color="d08770"/>
+      <item name="NET" color="0xd08770"/>
+      <item name="PIN" color="0x8fbcbb"/>
+      <item name="PROPERTY" color="0xebcb8b"/>
+      <item name="SELECTION" color="0xd08770"/>
+      <item name="SHEET ZONING GRID" color="0xd8dee9"/>
+      <item name="TEXT" text="0xeceff4"/>
+      <item name="UNPLACED COMPONENT" color="0xe5e9f0"/>
+      <item name="WIRE" color="0x8a45"/>
+    </schematic>
+    <ict>
+      <item name="BLOCK" color="0x60c0" text="0x0"/>
+      <item name="BUS" color="0x60c0" text="0x0"/>
+      <item name="DIFF PAIR" color="0xe02020" text="0x0"/>
+      <item name="EDITABLE BLOCK" color="0x8080" text="0x0"/>
+      <item name="EDITABLE CELL" color="0xe0e0e0" text="0x0"/>
+      <item name="FPGA" color="0x80b0e0" text="0x0"/>
+      <item name="GLOBAL NET" color="0xe02020" text="0x0"/>
+      <item name="GROUP" color="0x40c0" text="0x0"/>
+      <item name="HIGHLIGHT" color="0xff00ff" text="0x0"/>
+      <item name="INVALID CELL" color="0xb0b0b0" text="0x0"/>
+      <item name="NET" color="0xe02020" text="0x0"/>
+      <item name="PIN" color="0x80b0e0" text="0x0"/>
+      <item name="PORT" color="0x40c0" text="0x0"/>
+      <item name="SYMBOL" color="0x80b0e0" text="0x0"/>
+      <item name="VIEW" color="0x60c0" text="0x0"/>
+    </ict>
+  </schema>
+</Schema_file>

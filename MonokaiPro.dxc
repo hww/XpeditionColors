@@ -3,7 +3,7 @@
   <schema>
     <schematic>
       <!-- DARK -->
-      <item name="BACKGROUND" color="0x282a36"/>
+      <item name="BACKGROUND" color="0x2c292d"/>
       <item name="GRID" color="0x44475a"/>
 
       <!-- GRAY GRADIENT -->
